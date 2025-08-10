@@ -1,0 +1,9 @@
+openai
+pinecone-client
+ragas
+datasets
+tqdm
+PyMuPDF
+python-docx
+streamlit
+langchain
